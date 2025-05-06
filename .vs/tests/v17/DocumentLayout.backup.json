@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8E07AB-C10A-498B-9281-13A07C662210}|tests\\tests.csproj|c:\\users\\mopik\\documents\\github\\testsformethods\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E07AB-C10A-498B-9281-13A07C662210}|tests\\tests.csproj|solutionrelative:tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D99F28-C45E-4246-A0DD-9F2085196510}|ProgramTests\\TestsForMethodSym.csproj|c:\\users\\mopik\\documents\\github\\testsformethods\\programtests\\testsformethodsym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D99F28-C45E-4246-A0DD-9F2085196510}|ProgramTests\\TestsForMethodSym.csproj|solutionrelative:programtests\\testsformethodsym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F10348-20DE-4A92-9F0E-81FC26CE4E88}|TestsProstoe\\TestsProstoe.csproj|c:\\users\\mopik\\documents\\github\\testsformethods\\testsprostoe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F10348-20DE-4A92-9F0E-81FC26CE4E88}|TestsProstoe\\TestsProstoe.csproj|solutionrelative:testsprostoe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F10348-20DE-4A92-9F0E-81FC26CE4E88}|TestsProstoe\\TestsProstoe.csproj|c:\\users\\mopik\\documents\\github\\testsformethods\\testsprostoe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F10348-20DE-4A92-9F0E-81FC26CE4E88}|TestsProstoe\\TestsProstoe.csproj|solutionrelative:testsprostoe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F10348-20DE-4A92-9F0E-81FC26CE4E88}|TestsProstoe\\TestsProstoe.csproj|c:\\users\\mopik\\documents\\github\\testsformethods\\testsprostoe\\testsprostoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95F10348-20DE-4A92-9F0E-81FC26CE4E88}|TestsProstoe\\TestsProstoe.csproj|solutionrelative:testsprostoe\\testsprostoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestsProstoe",
+              "DocumentMoniker": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\TestsProstoe\\TestsProstoe.csproj",
+              "RelativeDocumentMoniker": "TestsProstoe\\TestsProstoe.csproj",
+              "ToolTip": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\TestsProstoe\\TestsProstoe.csproj",
+              "RelativeToolTip": "TestsProstoe\\TestsProstoe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T10:12:17.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\TestsProstoe\\Test1.cs",
+              "RelativeDocumentMoniker": "TestsProstoe\\Test1.cs",
+              "ToolTip": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\TestsProstoe\\Test1.cs",
+              "RelativeToolTip": "TestsProstoe\\Test1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:07:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\TestsProstoe\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestsProstoe\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\TestsProstoe\\MSTestSettings.cs",
+              "RelativeToolTip": "TestsProstoe\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:05:48.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestsForMethodSym.cs",
+              "DocumentMoniker": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
+              "RelativeDocumentMoniker": "ProgramTests\\TestsForMethodSym.cs",
+              "ToolTip": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
+              "RelativeToolTip": "ProgramTests\\TestsForMethodSym.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wDkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:41:23.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\Program.cs",
+              "RelativeDocumentMoniker": "tests\\Program.cs",
+              "ToolTip": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\Program.cs",
+              "RelativeToolTip": "tests\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:41:17.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

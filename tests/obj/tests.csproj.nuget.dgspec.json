@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj": {}
+    "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj": {
+    "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj",
+        "projectUniqueName": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\tests.csproj",
         "projectName": "tests",
-        "projectPath": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\obj\\",
+        "projectPath": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\tests.csproj",
+        "packagesPath": "C:\\Users\\Mopik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mopik\\Documents\\GitHub\\TestsForMethods\\tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mopik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
