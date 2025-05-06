@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestPlatform.TestHost;
 
-namespace ProgramTests
+namespace TestsForMethodSym
 {
     [TestClass]
     public class TestsForMethodSym
