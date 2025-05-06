@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "TestsForMethodMax\\TestsForMethodMax.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.cs",
               "RelativeToolTip": "TestsForMethodMax\\TestsForMethodMax.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T18:24:37.154Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "tests\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:41:17.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T09:41:17.61Z"
             },
             {
               "$type": "Document",
@@ -88,7 +87,8 @@
               "RelativeToolTip": "tests\\tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T09:41:12.578Z"
+              "WhenOpened": "2025-05-06T09:41:12.578Z",
+              "EditorCaption": ""
             }
           ]
         }

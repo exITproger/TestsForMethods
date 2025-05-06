@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestsForMethodSym")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50e4b91ed7ecc0bd9aa2352e023a2ac885d0d1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40a8f6b162eec4aa31275c4ea69c2b217529743")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestsForMethodSym")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestsForMethodSym")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
