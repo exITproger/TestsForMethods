@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestPlatform.TestHost;
 namespace ProgramTests
 {
     [TestClass]
-    public class ProgramTests
+    public class TestsForMethodSym
     {
         [TestMethod]
         public void Sym_ShouldReturnCorrectSum()
