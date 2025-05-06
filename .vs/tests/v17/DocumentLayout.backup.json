@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C00401D-BC3C-4061-980F-945A66EB371C}|TestsForMethodMax\\TestsForMethodMax.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\testsformethodmax\\testsformethodmax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4C00401D-BC3C-4061-980F-945A66EB371C}|TestsForMethodMax\\TestsForMethodMax.csproj|solutionrelative:testsformethodmax\\testsformethodmax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C00401D-BC3C-4061-980F-945A66EB371C}|TestsForMethodMax\\TestsForMethodMax.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\testsformethodmax\\testsformethodmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C00401D-BC3C-4061-980F-945A66EB371C}|TestsForMethodMax\\TestsForMethodMax.csproj|solutionrelative:testsformethodmax\\testsformethodmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,32 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestsForMethodMax",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.csproj",
-              "RelativeDocumentMoniker": "TestsForMethodMax\\TestsForMethodMax.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.csproj",
-              "RelativeToolTip": "TestsForMethodMax\\TestsForMethodMax.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T18:25:26.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TestsForMethodMax.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.cs",
               "RelativeDocumentMoniker": "TestsForMethodMax\\TestsForMethodMax.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.cs",
               "RelativeToolTip": "TestsForMethodMax\\TestsForMethodMax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T18:24:37.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TestsForMethodSym.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
               "RelativeDocumentMoniker": "ProgramTests\\TestsForMethodSym.cs",
@@ -84,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\Program.cs",
               "RelativeDocumentMoniker": "tests\\Program.cs",
@@ -97,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "tests.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj",
               "RelativeDocumentMoniker": "tests\\tests.csproj",
