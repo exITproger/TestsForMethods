@@ -53,6 +53,20 @@ public static class PalindromeChecker
 
 public class Program
 {
+    static public bool Prostoe(int number)
+    {
+        if (number <= 1) return false;
+        if (number == 2) return true;
+        if (number % 2 == 0) return false;
+
+        for (int i = 3; i <= Math.Sqrt(number)+1; i += 2)
+        {
+            if (number % i == 0)
+                return false;
+        }
+
+        return true;
+    }
     static public int Factorial(int n)
     {
         // Обработка отрицательных чисел
