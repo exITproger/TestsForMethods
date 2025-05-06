@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestsForMethodMax"
   ],
-  "SelectedNode": "\\tests.sln",
+  "SelectedNode": "\\TestsForMethodMax\\TestsForMethodMax.cs",
   "PreviewInSolutionExplorer": false
 }

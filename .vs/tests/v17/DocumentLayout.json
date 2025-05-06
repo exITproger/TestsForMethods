@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}|TestsForMethodFactorial\\TestsForMethodFactorial.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\testsformethodfactorial\\testsformethodfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}|TestsForMethodFactorial\\TestsForMethodFactorial.csproj|solutionrelative:testsformethodfactorial\\testsformethodfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC8E07AB-C10A-498B-9281-13A07C662210}|tests\\tests.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC8E07AB-C10A-498B-9281-13A07C662210}|tests\\tests.csproj|solutionrelative:tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D99F28-C45E-4246-A0DD-9F2085196510}|ProgramTests\\TestsForMethodSym.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\programtests\\testsformethodsym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C0D99F28-C45E-4246-A0DD-9F2085196510}|ProgramTests\\TestsForMethodSym.csproj|solutionrelative:programtests\\testsformethodsym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BA9CADB2-8CF0-48FA-A41A-856FFFE370A7}|Prostoe\\Prostoe.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\prostoe\\testforprostoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9CADB2-8CF0-48FA-A41A-856FFFE370A7}|Prostoe\\Prostoe.csproj|solutionrelative:prostoe\\testforprostoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0D99F28-C45E-4246-A0DD-9F2085196510}|ProgramTests\\TestsForMethodSym.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\programtests\\testsformethodsym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0D99F28-C45E-4246-A0DD-9F2085196510}|ProgramTests\\TestsForMethodSym.csproj|solutionrelative:programtests\\testsformethodsym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC8E07AB-C10A-498B-9281-13A07C662210}|tests\\tests.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC8E07AB-C10A-498B-9281-13A07C662210}|tests\\tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4C00401D-BC3C-4061-980F-945A66EB371C}|TestsForMethodMax\\TestsForMethodMax.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\testsformethodmax\\testsformethodmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00401D-BC3C-4061-980F-945A66EB371C}|TestsForMethodMax\\TestsForMethodMax.csproj|solutionrelative:testsformethodmax\\testsformethodmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA120F1-49F0-4362-BDF0-79837459E115}|TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\testsformethodspalindrome\\testsformethodspalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA120F1-49F0-4362-BDF0-79837459E115}|TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj|solutionrelative:testsformethodspalindrome\\testsformethodspalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA120F1-49F0-4362-BDF0-79837459E115}|TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj|c:\\users\\user\\source\\repos\\tests\\testsformethods\\testsformethodspalindrome\\testsformethodspalindrome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CA120F1-49F0-4362-BDF0-79837459E115}|TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj|solutionrelative:testsformethodspalindrome\\testsformethodspalindrome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,53 +55,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TestsForMethodSym.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
-              "RelativeDocumentMoniker": "ProgramTests\\TestsForMethodSym.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
-              "RelativeToolTip": "ProgramTests\\TestsForMethodSym.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwA0AAAAeAAAAAAAAAA==",
+              "Title": "TestForProstoe.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\Prostoe\\TestForProstoe.cs",
+              "RelativeDocumentMoniker": "Prostoe\\TestForProstoe.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\Prostoe\\TestForProstoe.cs",
+              "RelativeToolTip": "Prostoe\\TestForProstoe.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:41:23.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestsForMethodSym.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.csproj",
-              "RelativeDocumentMoniker": "ProgramTests\\TestsForMethodSym.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.csproj",
-              "RelativeToolTip": "ProgramTests\\TestsForMethodSym.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T09:41:22.288Z",
+              "WhenOpened": "2025-05-06T19:30:31.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestsForMethodFactorial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodFactorial\\TestsForMethodFactorial.cs",
+              "RelativeDocumentMoniker": "TestsForMethodFactorial\\TestsForMethodFactorial.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodFactorial\\TestsForMethodFactorial.cs",
+              "RelativeToolTip": "TestsForMethodFactorial\\TestsForMethodFactorial.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:27:00.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestsForMethodsPalindrome.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj",
+              "RelativeDocumentMoniker": "TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj",
+              "RelativeToolTip": "TestsForMethodsPalindrome\\TestsForMethodsPalindrome.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T18:57:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestsForMethodsPalindrome.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodsPalindrome\\TestsForMethodsPalindrome.cs",
+              "RelativeDocumentMoniker": "TestsForMethodsPalindrome\\TestsForMethodsPalindrome.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodsPalindrome\\TestsForMethodsPalindrome.cs",
+              "RelativeToolTip": "TestsForMethodsPalindrome\\TestsForMethodsPalindrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:56:44.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestsForMethodMax.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.cs",
+              "RelativeDocumentMoniker": "TestsForMethodMax\\TestsForMethodMax.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\TestsForMethodMax\\TestsForMethodMax.cs",
+              "RelativeToolTip": "TestsForMethodMax\\TestsForMethodMax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:24:37.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestsForMethodSym.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
+              "RelativeDocumentMoniker": "ProgramTests\\TestsForMethodSym.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\ProgramTests\\TestsForMethodSym.cs",
+              "RelativeToolTip": "ProgramTests\\TestsForMethodSym.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:41:23.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\Program.cs",
               "RelativeDocumentMoniker": "tests\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\Program.cs",
               "RelativeToolTip": "tests\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T09:41:17.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "tests",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj",
-              "RelativeDocumentMoniker": "tests\\tests.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\tests\\TestsForMethods\\tests\\tests.csproj",
-              "RelativeToolTip": "tests\\tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T09:41:12.578Z",
               "EditorCaption": ""
             }
           ]
