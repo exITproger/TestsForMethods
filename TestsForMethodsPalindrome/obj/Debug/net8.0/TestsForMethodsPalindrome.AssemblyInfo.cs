@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestsForMethodsPalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40a8f6b162eec4aa31275c4ea69c2b217529743")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faf841b93cf8693d5afc1a4c1dbef5f9e53ec633")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestsForMethodsPalindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestsForMethodsPalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsForMethodSym", "Progra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsForMethodMax", "TestsForMethodMax\TestsForMethodMax.csproj", "{4C00401D-BC3C-4061-980F-945A66EB371C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsForMethodsPalindrome", "TestsForMethodsPalindrome\TestsForMethodsPalindrome.csproj", "{7CA120F1-49F0-4362-BDF0-79837459E115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsForMethodsPalindrome", "TestsForMethodsPalindrome\TestsForMethodsPalindrome.csproj", "{7CA120F1-49F0-4362-BDF0-79837459E115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsForMethodFactorial", "TestsForMethodFactorial\TestsForMethodFactorial.csproj", "{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7CA120F1-49F0-4362-BDF0-79837459E115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CA120F1-49F0-4362-BDF0-79837459E115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CA120F1-49F0-4362-BDF0-79837459E115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CDBBEE-7865-4F0B-99AE-D5ED0A1B28E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

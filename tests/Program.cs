@@ -50,8 +50,32 @@ public static class PalindromeChecker
         return IsPalindrome(obj?.ToString() ?? "");
     }
 }
+
 public class Program
 {
+    static public int Factorial(int n)
+    {
+        // Обработка отрицательных чисел
+        if (n < 0)
+            throw new ArgumentException("Factorial is not defined for negative numbers");
+
+        // Базовый случай рекурсии
+        if (n == 0)
+            return 1;
+
+        // Проверка на переполнение перед вычислением
+        checked
+        {
+            try
+            {
+                return n * Factorial(n - 1);
+            }
+            catch (OverflowException)
+            {
+                throw new OverflowException($"Factorial exceeds int.MaxValue for n > 20");
+            }
+        }
+    }
     static public int Sym(int x, int y)
     {
         return x + y;
